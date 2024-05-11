@@ -1,5 +1,6 @@
 :root {
   --box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  --box-shadow: 0 1px 3px rgba(192, 170, 170, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 * {
@@ -7,7 +8,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #9f9494;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,7 +30,7 @@ h1 {
 }
 
 h3 {
-  border-bottom: 1px solid #bbb;
+  border-bottom: 1px solid #856d6d;
   padding-bottom: 10px;
   margin: 40px 0 10px;
 }
